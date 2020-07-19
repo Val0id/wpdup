@@ -3,5 +3,5 @@
 
 # How to use
 * python3 wpdup.py website.txt 15
-- website.txt = list of website
+- website.txt = list of websites
 - 15 = Threads
